@@ -15,11 +15,6 @@ I’m currently working on intern Management System using Flutter and Laravel AP
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AbdiwahidG&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdiwahidG&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/AbdiwahidGuhad)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbdiwahidG&icon=0&color=2)](https://visitcount.itsvg.in)
