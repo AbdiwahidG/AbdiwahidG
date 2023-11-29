@@ -1,6 +1,6 @@
 # 💫 About Me:
 <br>🔭 I’m currently studying at JOMO KENYATTA UNIVERSITY OF AGRICULTURE AND TECHNOLOGY Telecommunication and Information Engineering<br>
-<br>👯 I’m looking to collaborate on open source flutter projects.<br><br>🤝 I’m looking for help with community based projects, to solve problems in the community. <br><br>💬 I am passionate about anything telecommunication and information engineering, PCDs Design and Manufacturing.<br><br>
+<br>👯 I’m looking to collaborate on open source flutter projects.<br><br>🤝 I’m looking for help with community based projects, to solve problems in the community. <br><br>💬 I am passionate about anything telecommunication and information engineering, PCB Design and Manufacturing.<br><br>
 
 I’m currently working on intern Management System using Flutter and Laravel APIs<br>⚡ Fun fact :  OCD is real 😂<br><br>
 
